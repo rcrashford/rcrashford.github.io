@@ -3,13 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "a1_website"
+  title: ""
+  favicon: euro2024.png
   navbar:
+    logo: euro2024.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - text: Recipe
+        href: recipe.qmd
+      - text: Hobbies
+        href: hobbies.qmd
+      - text: Reflection
+        href: reflection.qmd
+        
 format:
   html:
     theme: cosmo

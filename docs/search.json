@@ -2,13 +2,34 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "a1_website",
+    "title": "Ranson’s Bio",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Greetings to all fans, I am Ranson Chong from Singapore Institute of Technology. I am currently doing Quarto web development for Module AAI1001 - Data Engineering and Visualization. To complete this assignment with maximum efficiency, I am going to idolise my favourite football player Lamine Yamal, and introduce his brilliance to all of you. Writing about him saves me an eternity worth of time as compared to writing about myself. Vamos!\nLamine is only 17 and plays for FC Barcelona. He is part of Spain’s Euro 2024 winning squad in Germany, where his contribution of 1 goal and 4 assists proved influential towards Spain’s triumph at the tournament. During this period, he was also preparing for his Cambridge examinations at the team’s hotel after training. Commendable effort for juggling between school and competition.\nTo find out more, visit: https://www.fcbarcelona.com/en/football/barca-b/players/3673478/lamine-yamal\n\n\n\n© 2025 My Quarto Website. All Rights Reserved.\n\n\nVisit our GitHub"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "recipe.html",
+    "href": "recipe.html",
+    "title": "Recipe of Scrambled Eggs",
+    "section": "",
+    "text": "Watch on YouTube\nGordon Ramsay’s scrambled eggs are a culinary masterpiece, renowned for their creamy, velvety texture and rich flavor. He begins by cracking eggs into a cold pan, whisking them vigorously with a fork to incorporate air. As the eggs slowly cook over low heat, Ramsay constantly stirs them with a spatula, ensuring that they cook gently and evenly. He emphasizes the importance of patience, allowing the eggs to take their time in the pan, avoiding the rush of high heat. The result is a luxuriously smooth scramble, often finished with a dollop of butter for added richness and a sprinkle of chives for freshness. Ramsay’s scrambled eggs are a perfect balance of tenderness and flavor, elevating a simple dish to an indulgent breakfast experience."
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "Lamine’s Hobbies",
+    "section": "",
+    "text": "Lamine Yamal is a dynamic and electrifying talent on the football pitch, known for his exceptional dribbling skills, quick acceleration, and fearless approach to the game. With remarkable agility and close ball control, he effortlessly glides past defenders, weaving through tight spaces with ease. His ability to change direction at lightning speed keeps opponents on edge, making him a constant threat in attack. Yamal’s vision and creativity enable him to deliver precise passes and link up play, while his composure in front of goal shows maturity beyond his years. His pace and flair make him a captivating player to watch, and his potential to dominate the game for years to come has fans and pundits alike buzzing with excitement.\n\nLamine Yamal approaches studying for exams with the same focus and discipline that he brings to his football training. He organizes his study sessions with a clear plan, breaking down complex subjects into manageable chunks and dedicating time to each one. Known for his sharp mind on the field, Yamal applies that same attention to detail when revising, using a variety of methods like note-taking, active recall, and practice tests to reinforce his understanding. Despite his busy schedule as a professional athlete, he ensures that he balances his academics with his athletic commitments, managing his time effectively. Whether studying alone or seeking help from teachers or peers, Yamal remains determined and hardworking, always striving to excel both in the classroom and on the pitch."
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"

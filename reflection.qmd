@@ -1,0 +1,11 @@
+---
+title: "AI Reflection"
+---
+
+For this assessment, I used ChatGPT as my AI assistant. I am very accustomed to this platform since I was introduced to it very early on and it has been very reliable in generating ideas and refining my codes for me. It helped me quickly draft structured paragraphs and offered suggestions to improve clarity and flow for language obstacles. The tool’s ability to generate content based on specific prompts made it easier to express my thoughts in a more concise and coherent manner. One of the benefits is its speed and versatility, allowing me to explore different angles on a topic without having to start from scratch. However, a challenge is that while ChatGPT can provide useful content, it sometimes requires careful editing to ensure it aligns with my intended purpose and expected output. Although I adore ChatGPT, but I still that believe human input and personal touch is is essential for keeping work unique and ensuring authenticity.
+
+<!-- Footer -->
+<div class="footer">
+  <p>&copy; 2025 My Quarto Website. All Rights Reserved.</p>
+  <p><a href="https://github.com/rcrashford/rcrashford.github.io">Visit My GitHub (click to access)</a></p>
+</div>

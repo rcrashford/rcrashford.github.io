@@ -1,0 +1,16 @@
+---
+title: "Lamine's Hobbies"
+---
+![](yamal_trophy.png){width=60%}
+
+Lamine Yamal is a dynamic and electrifying talent on the football pitch, known for his exceptional dribbling skills, quick acceleration, and fearless approach to the game. With remarkable agility and close ball control, he effortlessly glides past defenders, weaving through tight spaces with ease. His ability to change direction at lightning speed keeps opponents on edge, making him a constant threat in attack. Yamal's vision and creativity enable him to deliver precise passes and link up play, while his composure in front of goal shows maturity beyond his years. His pace and flair make him a captivating player to watch, and his potential to dominate the game for years to come has fans and pundits alike buzzing with excitement.
+
+![](yamal_study.png){width=30%}
+
+Lamine Yamal approaches studying for exams with the same focus and discipline that he brings to his football training. He organizes his study sessions with a clear plan, breaking down complex subjects into manageable chunks and dedicating time to each one. Known for his sharp mind on the field, Yamal applies that same attention to detail when revising, using a variety of methods like note-taking, active recall, and practice tests to reinforce his understanding. Despite his busy schedule as a professional athlete, he ensures that he balances his academics with his athletic commitments, managing his time effectively. Whether studying alone or seeking help from teachers or peers, Yamal remains determined and hardworking, always striving to excel both in the classroom and on the pitch.
+
+<!-- Footer -->
+<div class="footer">
+  <p>&copy; 2025 My Quarto Website. All Rights Reserved.</p>
+  <p><a href="https://github.com/rcrashford/rcrashford.github.io">Visit My GitHub (click to access)</a></p>
+</div>

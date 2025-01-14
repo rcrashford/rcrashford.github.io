@@ -1,1 +1,72 @@
 /* css styles */
+
+body {
+  font-family: Calibri, sans-serif;
+  font-size: 18px;
+}
+
+p {
+  margin: 0;
+  padding: 2;
+  line-height: 1.5;
+}
+
+h1,h2 {
+  font-size: 28pt;
+}
+h3,h4 {
+  font-size: 16pt;
+}
+
+/* Set navbar background color */
+.navbar {
+  background-color: red; /* Change this to your desired color */
+}
+
+/* Set navbar text color */
+.navbar a {
+  color: white; /* Change text color */
+}
+
+/* Change navbar hover color */
+.navbar a:hover {
+  color: yellow; /* Change this to a different color on hover */
+}
+
+/* Set the navbar font */
+.navbar a {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+/* Add a shadow effect to the navbar */
+.navbar {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Make the navbar sticky at the top of the page */
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+/* Footer style */
+.footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer a {
+  color: white;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  color: #ffd700; /* Hover color */
+}

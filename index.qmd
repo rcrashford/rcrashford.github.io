@@ -1,11 +1,19 @@
 ---
-title: "a1_website"
+title: "Ranson's Bio"
 ---
 
-This is a Quarto website.
+![](yamal_profile.png){width=52%}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+Greetings to all fans, I am Ranson Chong from Singapore Institute of Technology. I am currently doing Quarto web development for Module AAI1001 - Data Engineering and Visualization. To complete this assignment with maximum efficiency, I am going to idolise my favourite football player Lamine Yamal, and introduce his brilliance to all of you. Writing about him saves me an eternity worth of time as compared to writing about myself. Vamos!
+
+Lamine is only 17 and plays for FC Barcelona. He is part of Spain's Euro 2024 winning squad in Germany, where his contribution of 1 goal and 4 assists proved influential towards Spain's triumph at the tournament. During this period, he was also preparing for his Cambridge examinations at the team's hotel after training. Commendable effort for juggling between school and competition.
+
+To find out more, visit:
+<https://www.fcbarcelona.com/en/football/barca-b/players/3673478/lamine-yamal>
+
+<!-- Footer -->
+<div class="footer">
+  <p>&copy; 2025 My Quarto Website. All Rights Reserved.</p>
+  <p><a href="https://github.com/rcrashford/rcrashford.github.io">Visit My GitHub (click to access)</a></p>
+</div>
